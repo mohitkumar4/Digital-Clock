@@ -1,5 +1,3 @@
-Of course\! Here is the content formatted in Markdown, ready for you to copy and paste directly into your `README.md` file on GitHub.
-
 -----
 
 # ⏰ SVG Animated Digital Clock
